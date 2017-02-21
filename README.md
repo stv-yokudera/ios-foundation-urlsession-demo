@@ -97,7 +97,7 @@ https://developer.apple.com/reference/foundation/urlsessionconfiguration
 ## 概要
 スーパークラスのURLSessionTaskは個々のHTTPリクエストの通信タスクを管理します。
 
-URLSessionDataTaskはサーバからデータを取得し、結果をDataとしてメモリ上に保持します。
+URLSessionDataTaskはサーバからデータを取得し、結果をDataとしてメモリ上に保持します。  
 比較的短い時間ですぐ応答することが期待されるタスクを管理するクラスです。
 
 ## 関連クラス
